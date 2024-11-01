@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){jQuery(".nav-tab").click(function(){switch_tabs($(this))})});function switch_tabs(obj){if(!obj.hasClass("nav-tab-active")){jQuery(".nav-tab-active").removeClass("nav-tab-active");jQuery(".nav-tab-contents").hide();var id="#"+obj.attr("rel");obj.addClass("nav-tab-active");jQuery(id).show()}};

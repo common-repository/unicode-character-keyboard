@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Version 0.2 by Walter VERMEIR -->
+
+<characterSet name="Esperanto" type="Languages" description="Esperanto Specific Characters" >
+    <characterSubset name="Upper Case Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#264;">Upper Case C circumflex</characterDefinition>
+            <characterDefinition character="&amp;#284;">Upper Case G circumflex</characterDefinition>
+            <characterDefinition character="&amp;#292;">Upper Case H circumflex</characterDefinition>
+            <characterDefinition character="&amp;#308;">Upper Case J circumflex</characterDefinition>
+            <characterDefinition character="&amp;#348;">Upper Case S circumflex</characterDefinition>
+            <characterDefinition character="&amp;#364;">Upper Case U breve</characterDefinition>
+        </characterSubsetArray>
+        </characterSubset>
+    <characterSubset name="Lower Case Letters" >
+        <characterSubsetArray>
+            <characterDefinition character="&amp;#265;">Lower Case c circumflex</characterDefinition>
+            <characterDefinition character="&amp;#285;">Lower Case g circumflex</characterDefinition>
+            <characterDefinition character="&amp;#293;">Lower Case h circumflex</characterDefinition>
+            <characterDefinition character="&amp;#309;">Lower Case j circumflex</characterDefinition>
+            <characterDefinition character="&amp;#349;">Lower Case s circumflex</characterDefinition>
+            <characterDefinition character="&amp;#365;">Lower Case u breve</characterDefinition>
+       </characterSubsetArray>
+    </characterSubset>
+</characterSet>
